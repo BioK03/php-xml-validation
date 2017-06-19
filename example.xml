@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<example>
+    <string>This is an example.</string>
+    <integer>2</integer>
+</example>
